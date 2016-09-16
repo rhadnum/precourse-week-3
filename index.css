@@ -68,9 +68,10 @@ p{
 }
 
 .footer{
+	display:block;
 	width:100%;
 	height: auto;
-	margin: 2% auto;
+	
 }
 
 
