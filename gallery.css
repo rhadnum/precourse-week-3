@@ -1,6 +1,11 @@
+#logo{
+	display: block;
+	margin: auto;
+}
+
 .img-container{
-	margin-top: 2%;
-	margin-left: 10%;
+	width:60%;
+	margin: 2% auto;
 }
 
 .img-container img{
