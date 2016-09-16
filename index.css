@@ -63,14 +63,15 @@ p{
 }
 
 .butt-container{
-	margin: 0px 35	%;
+	margin: 0px auto;
 
 }
 
 .footer{
-	width:100%;
-	height: auto;
 	margin: 2% auto;
+	width:80%;
+	height: auto;
+	
 }
 
 
@@ -79,8 +80,7 @@ p{
 }
 
 #iframe{
-	margin: 0 auto;
-	display:block;
+	display: block;
 	padding:1%;
 	border:none;
 }
