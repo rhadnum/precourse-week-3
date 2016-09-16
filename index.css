@@ -79,7 +79,8 @@ p{
 }
 
 #iframe{
-	margin:0 auto;
+	margin: 0 auto;
+	display:block;
 	padding:1%;
 	border:none;
 }
