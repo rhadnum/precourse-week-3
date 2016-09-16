@@ -63,7 +63,7 @@ p{
 }
 
 .butt-container{
-	margin: 0px 35%;
+	margin: 0px 35	%;
 
 }
 
@@ -79,7 +79,7 @@ p{
 }
 
 #iframe{
-	margin-left:12.5%;
+	margin:0 auto;
 	padding:1%;
 	border:none;
 }
