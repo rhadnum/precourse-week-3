@@ -63,12 +63,15 @@ p{
 }
 
 .butt-container{
-	margin: 0px auto;
+	margin: auto;
+	width:70%;
+	height:auto;
+	padding:2%;
 
 }
 
 .footer{
-	margin: 2% auto;
+	margin: auto;
 	width:80%;
 	height: auto;
 	
